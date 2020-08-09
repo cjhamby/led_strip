@@ -1,3 +1,5 @@
+C++ code to control a strip of addressable APA102 LEDs using a Teensy microcontroller
+
 -------------------------------------------------------------------
  file               header   src          description 
 -------------------------------------------------------------------
